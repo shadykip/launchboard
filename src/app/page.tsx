@@ -119,9 +119,7 @@ export default function Home() {
           </p>
 
           <h1 className="mt-5 text-4xl font-semibold tracking-tight sm:text-6xl">
-            Every release starts
-            <br />
-            with confidence.
+            Release two: ready for rollback practice.
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-8 text-slate-400">
