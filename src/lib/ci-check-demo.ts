@@ -1,2 +1,2 @@
-// Intentional type error for the branch-protection exercise.
-export const ciCheckDemo: number = "this should fail";
+// Used for the CI branch-protection exercise.
+export const ciCheckDemo: number = 1;
